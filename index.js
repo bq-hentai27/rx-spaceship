@@ -1,5 +1,5 @@
 /*!
- * todo scripts
+ * spaceship scripts
  * bq-hentai | 03/12/2017
  */
 
